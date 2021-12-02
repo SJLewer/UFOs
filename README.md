@@ -5,7 +5,7 @@ Enhance the UFO Sightings webpage to provide a more in-depth analysis of UFO sig
 
 ## Results - How to search the data table using the Filter Search:
  
- * Launch the webpage via index.html
+ * Launch the webpage via index.html (https://github.com/SJLewer/UFOs/blob/main/index.html)
  
  * In the Filter Search section (left side of the data table), placeholder entry examples ("1/10/20", "roswell", "ca", etc.) are provided in each filter option.  
 
@@ -35,7 +35,7 @@ Enhance the UFO Sightings webpage to provide a more in-depth analysis of UFO sig
 ## Resources
 _Data Source_: 
 
-_HTML_:
+_HTML_: https://github.com/SJLewer/UFOs/blob/main/index.html
 _JavaScript_:
 
 _Analyst_: S. Lewer
