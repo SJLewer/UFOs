@@ -33,9 +33,8 @@ Enhance the UFO Sightings webpage to provide a more in-depth analysis of UFO sig
            https://stackoverflow.com/questions/43582408/how-can-i-make-my-search-form-work-with-uppercase-and-lowercase
       ___
 ## Resources
-_Data Source_: 
-
 _HTML_: https://github.com/SJLewer/UFOs/blob/main/index.html
-_JavaScript_:
+
+_Data Source and Javascript_: https://github.com/SJLewer/UFOs/tree/main/static
 
 _Analyst_: S. Lewer
