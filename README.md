@@ -23,7 +23,7 @@ Enhance the UFO Sightings webpage to provide a more in-depth analysis of UFO sig
  
  
 ## Summary:
-  While the dynamic filters are working as designed, there are a couple of drawbacks:
+  While the dynamic filters are working as designed, there are drawbacks:
   
   1. The user must have familiarity with the data set to know available options for each filter.  
      - _Recommended enhancement:_ Include a drop-down selection list for each filter option.  Consider creating a dynamic drop-down list that will automatically update (versus           having to manually update a list in the code) based on the data file.  This way, when revised data files are used, the drop-down lists will update automatically based on               the new respective values.  
